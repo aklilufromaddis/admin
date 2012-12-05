@@ -1,4 +1,4 @@
 admin
 =====
 
-a admin system template base on yii&bootstrap
+Just another admin system template base on yii&bootstrap.
